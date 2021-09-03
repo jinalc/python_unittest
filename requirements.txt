@@ -1,0 +1,10 @@
+selenium
+PyYAML==3.10
+execnet==1.0.9
+py~=1.9.0
+pytest==2.2.3
+pytest-mozwebqa==0.8
+pytest-xdist==1.8
+configparser
+pip~=19.2.3
+setuptools~=41.2.0
